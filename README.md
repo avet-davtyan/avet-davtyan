@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **avetdavtyan04@gmail.com**
 
-- 📦 Skilled in containerization using Docker.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
