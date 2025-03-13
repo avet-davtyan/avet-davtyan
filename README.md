@@ -5,7 +5,7 @@
 
 - 🛠️ Specializing in NestJS, React, Node.js, and Express.js.
 
-- 📫 how to reach me **avetdavtyan04@gmail.com**
+- 📫 How to reach me **avetdavtyan04@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
